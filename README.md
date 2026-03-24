@@ -251,8 +251,8 @@ This tool is for **reference purposes only**. It should **NOT** replace professi
 ## 👨‍💻 **Author**
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [Your Profile](https://www.linkedin.com/in/samir-thakur-829162381/)
+- GitHub: [https://github.com/your-username]
+- LinkedIn: [https://www.linkedin.com/in/samir-thakur-829162381/]
 - Email: thakursamir0000@gmail.com
 
 ---
