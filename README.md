@@ -247,18 +247,13 @@ This tool is for **reference purposes only**. It should **NOT** replace professi
 
 ---
 
-## 📄 **License**
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## 👨‍💻 **Author**
 
 **Your Name**
 - GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [Your Profile](https://linkedin.com/in/your-profile)
-- Email: your.email@example.com
+- LinkedIn: [Your Profile](https://www.linkedin.com/in/samir-thakur-829162381/)
+- Email: thakursamir0000@gmail.com
 
 ---
 
@@ -272,36 +267,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📞 **Support**
-
-If you encounter issues:
-1. Check [Issues](https://github.com/your-username/repo/issues) page
-2. Create new issue with error details
-3. Contact via email
-
----
-
-## 📸 **Screenshots**
-
-### Main Interface
-![Main Interface](screenshots/main_interface.png)
-
-### Verification Result
-![Verification](screenshots/verification_result.png)
-
-### Settings Panel
-![Settings](screenshots/settings_panel.png)
-
----
-
-## 🔗 **Useful Links**
-
-- [FDA API Documentation](https://open.fda.gov/apis/)
-- [RxNorm API Guide](https://rxnav.nlm.nih.gov/)
-- [Streamlit Documentation](https://docs.streamlit.io/)
-- [EasyOCR GitHub](https://github.com/JaidedAI/EasyOCR)
-
----
 
 **⭐ If this project helped you, please give it a star!**
 
