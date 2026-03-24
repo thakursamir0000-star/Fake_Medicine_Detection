@@ -39,43 +39,7 @@ An AI-powered medicine verification system that combines **FDA/RxNorm API databa
 - Python 3.8 or higher
 - pip (Python package manager)
 
-### **Installation**
 
-1. **Clone the repository:**
-```bash
-git clone https://github.com/YOUR_USERNAME/Medicine-Authenticity-Checker.git
-cd Medicine-Authenticity-Checker
-```
-
-2. **Create virtual environment (recommended):**
-```bash
-python -m venv .venv
-
-# Activate virtual environment
-# Windows:
-.venv\Scripts\activate
-
-# Mac/Linux:
-source .venv/bin/activate
-```
-
-3. **Install dependencies:**
-```bash
-cd web_creat
-pip install -r requirements.txt
-```
-
-4. **Run the application:**
-```bash
-streamlit run app.py
-```
-
-5. **Open in browser:**
-```
-http://localhost:8501
-```
-
----
 
 ## 📂 **Project Structure**
 ```
